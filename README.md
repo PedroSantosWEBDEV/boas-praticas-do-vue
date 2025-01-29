@@ -54,6 +54,6 @@ props: {
 
 ## Referências
 
-- <https://vuejs.org/v2/style-guide/#Component-instance-options-order-recommended>
-- <https://vuejs-tips.github.io/cheatsheet/>
-- https://learnvue.co/articles/vue-best-practices
+- <https://pt.vuejs.org/style-guide/rules-essential.html>
+- <https://012.vuejs.org/guide/best-practices.html>
+- <https://learnvue.co/articles/vue-best-practices>
